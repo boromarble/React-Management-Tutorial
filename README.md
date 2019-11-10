@@ -1,3 +1,6 @@
+## Management System
+본프로젝트는 안경잡이를 따라해본 고객관리 시스템입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
